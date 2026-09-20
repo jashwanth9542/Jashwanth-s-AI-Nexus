@@ -30,10 +30,6 @@ This portfolio represents my learning journey, projects, experiments, and techni
 
 ## 🛠️ Technologies Used
 
-## 🛠️ Technologies Used
-
-## 🛠️ Technologies Used
-
 * **React 18** — Building the user interface
 * **TypeScript** — Type-safe development
 * **Vite 6** — Fast development and production build tool
